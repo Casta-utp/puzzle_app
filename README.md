@@ -1,10 +1,11 @@
 # Proyecto: Puzzle y Maze Solver
 
 Este proyecto implementa algoritmos de búsqueda para resolver problemas de inteligencia artificial, específicamente el **8-Puzzle** y el **Maze Solver**. La aplicación está desarrollada en Python utilizando el framework **Kivy** para la interfaz gráfica.
-lINK APK (MOVILES): https://drive.google.com/drive/folders/1P43-WOACH9WAesAZ8Ijdl-jvVxjuu5sf?usp=sharing
 ---
 
 ## Tabla de Contenidos
+
+lINK APK (MOVILES): https://drive.google.com/drive/folders/1P43-WOACH9WAesAZ8Ijdl-jvVxjuu5sf?usp=sharing
 
 1. [Descripción General](#descripción-general)
 2. [Estructura del Proyecto](#estructura-del-proyecto)
